@@ -1,1 +1,0 @@
-double fahrcels(double x);
