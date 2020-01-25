@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573413751 source:c:\users\simone gulyas\onedrive\dokumentumok\elte\elte-1-imperativprogramozas\practice_1_6_a\main.c
+	<stdio.h>
+	<stdlib.h>
+

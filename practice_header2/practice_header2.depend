@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1578487598 source:c:\users\simone gulyas\onedrive\dokumentumok\elte\elte-1-imperativprogramozas\practice_header2\define.c
+	<stdio.h>
+	<stdlib.h>
+	"define.h"
+
+1578487464 c:\users\simone gulyas\onedrive\dokumentumok\elte\elte-1-imperativprogramozas\practice_header2\define.h
+
+1578487697 source:c:\users\simone gulyas\onedrive\dokumentumok\elte\elte-1-imperativprogramozas\practice_header2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"define.h"
+

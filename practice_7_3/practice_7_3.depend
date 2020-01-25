@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1579699676 source:c:\users\simone gulyas\onedrive\dokumentumok\elte\1-fv\elte-1-imperativprogramozas\practice_7_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"complex.h"
+
+1579699424 c:\users\simone gulyas\onedrive\dokumentumok\elte\1-fv\elte-1-imperativprogramozas\practice_7_3\complex.h
+
+1579699580 source:c:\users\simone gulyas\onedrive\dokumentumok\elte\1-fv\elte-1-imperativprogramozas\practice_7_3\complex.c
+	<stdio.h>
+	<stdlib.h>
+	"complex.h"
+
