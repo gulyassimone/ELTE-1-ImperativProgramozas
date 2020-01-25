@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1579704120 source:c:\users\simone gulyas\onedrive\dokumentumok\elte\1-fv\elte-1-imperativprogramozas\practice_7_4\main.c
-	<stdio.h>
-	<stdlib.h>
-	"person.h"
-
-1579700458 c:\users\simone gulyas\onedrive\dokumentumok\elte\1-fv\elte-1-imperativprogramozas\practice_7_4\person.h
-
